@@ -26,6 +26,15 @@ The ESPN Cricket Dashboard is a data visualization and analysis project that use
 
 ![Image](https://github.com/user-attachments/assets/1dc6d4e8-53df-44d9-866b-f1e1caf038f4)
 
+## [Project 2: European Housing Dashboard](https://github.com/kevinlch421/European-Housing-Dashboard.git)
+
+This Power BI dashboard analyzes European housing markets using Google Big Query data from KRISHAI Technologies. Built with DAX and Power Query, it helps users explore property trends, sales performance, and investment opportunities across Europe through an interactive interface.
+
+## Preview
+
+![Image](https://github.com/user-attachments/assets/268ed1dc-033b-4638-85f7-9d95bf6fa5af)
+
+
 ## Contact Information
 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [kevinleungch421@outlook.com](mailto:info@kevinleungch421@outlook.com) or connect with me on LinkedIn at [Kevin Leung](https://www.linkedin.com/in/kelvinleung421/).
