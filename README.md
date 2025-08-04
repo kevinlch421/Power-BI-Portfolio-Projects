@@ -16,31 +16,68 @@
 ![GITHUB ACTIONS](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
+🎉 Welcome to my Power BI Portfolio! Here, you’ll explore a curated collection of data-driven projects that showcase my passion for transforming raw data into actionable insights. From sports analytics to market trends, each dashboard tells a unique story, demonstrating my expertise in data visualization, business intelligence, and analytics with Power BI. 🚀
 
-## [Project 1: ESPN Cricket Dashboard](https://github.com/kevinlch421/ESPN-Batting-and-Fielding-Dashboard.git)
+## 🏏 [Project 1: ESPN Cricket Dashboard](https://github.com/kevinlch421/ESPN-Batting-and-Fielding-Dashboard.git)
 
-The ESPN Cricket Dashboard is a data visualization and analysis project that uses web-scraped data from ESPN to create an interactive dashboard. This dashboard focuses on batting and fielding statistics from the India and South Africa cricket teams. Built with DAX functions and Power BI, it provides an intuitive interface for users to explore and analyze cricket performance metrics.
+🏏 **ESPN Cricket Dashboard**: Step into the world of cricket analytics with this dynamic dashboard! Using data sourced from ESPN, I’ve built a tool that turns raw statistics into actionable insights for players, coaches, and enthusiasts.
 
-## Preview
+### Preview
 
 ![Image](https://github.com/user-attachments/assets/1dc6d4e8-53df-44d9-866b-f1e1caf038f4)
 
-## [Project 2: European Housing Dashboard](https://github.com/kevinlch421/European-Housing-Dashboard.git)
+### Key Features:
+- 🎯 Batting Performance Metrics: Analyze strike rates, averages, and other key stats to assess player performance.
+- 📊 Fielding Efficiency Visualizations: Gain insights into fielding dynamics with intuitive charts.
+- 🇮🇳🇿🇦 Comparative Team Analysis: Evaluate India vs. South Africa across multiple metrics to uncover strengths and gaps.
 
-This Power BI dashboard analyzes European housing markets using Google Big Query data from KRISHAI Technologies. Built with DAX and Power Query, it helps users explore property trends, sales performance, and investment opportunities across Europe through an interactive interface.
+### Skills Demonstrated:
+- ETL Pipelines: Extract, transform, and load data seamlessly from diverse sources.
+- Performance Benchmarking: Establish and analyze benchmarks for player and team evaluation.
+- Interactive Storytelling: Create engaging narratives through interactive visuals.
+- Sports Analytics: Apply data science to sports for deeper insights.
+- Web Scraping: Enrich datasets by gathering data from online sources.
+- DAX Optimization: Enhance dashboard performance with efficient DAX queries.
+This project reflects my ability to turn complex datasets into compelling, decision-ready stories for the sports industry.
 
-## Preview
+## 🏠 [Project 2: European Housing Market Dashboard](https://github.com/kevinlch421/European-Housing-Dashboard.git)
+
+🏠 European Housing Market Dashboard: Unlock the secrets of Europe’s real estate market with this insightful dashboard. Tailored for investors, analysts, and policymakers, it offers a detailed lens into housing trends and opportunities.
+
+### Preview
 
 ![Image](https://github.com/user-attachments/assets/268ed1dc-033b-4638-85f7-9d95bf6fa5af)
 
-## [Project 3: Mobile Product Dashboard 2025](https://github.com/kevinlch421/Mobile-Product-Dashbroad-2025.git)
+### Key Features:
+- 📈 Trend Analysis: Monitor price-to-income ratios and year-over-year changes to spot market shifts.
+- 🌍 Regional Performance Benchmarking: Compare housing metrics across European regions to identify investment potential.
+- 🗺️ Geospatial Analysis: Visualize spatial patterns with interactive maps.
 
-This Power BI dashboard helps you compare smartphones from 2020 to 2025. It shows important phone features like RAM, camera quality, and processors, along with price differences across countries. You can also see how phone technology has changed year by year. Use it to find phones with the best features for your needs, discover where you can get the best price, and easily compare over 1,200 different models. It's perfect for students who are researching their next phone purchase.
+### Skills Demonstrated:
+- Real Estate Analytics: Deliver investment-grade insights through data analysis.
+- Google BigQuery: Manage large datasets with cloud-based warehousing.
+- Market Forecasting: Predict trends using historical data.
+- Data Visualization: Present complex data in clear, actionable formats.
+This dashboard demonstrates my capacity to handle big data and provide stakeholders with accessible, impactful insights.
 
-## Preview
+## 📱 [Project 3: Smartphone Comparison Dashboard 2025](https://github.com/kevinlch421/Mobile-Product-Dashbroad-2025.git)
+📱 Smartphone Comparison Dashboard 2025: Navigate the fast-paced smartphone market with this data-driven guide. Perfect for consumers, retailers, and tech fans, it compares features and prices from 2019 to 2025.
+
+### Preview
 
 ![Image](https://github.com/user-attachments/assets/53126b64-d302-44df-a66c-e5cd4a8381aa)
+
+### Key Features:
+- ⚙️ Tech Spec Evolution: Trace advancements in smartphone specs over time.
+- 💵 Global Price Comparison: Compare prices in USD, CNY, INR, and AED for global value insights.
+- 📊 Consumer Analytics: Analyze preferences and trends to forecast demand.
+
+### Skills Demonstrated:
+- Consumer Tech Analysis: Assess and compare technology products.
+- Product Benchmarking: Evaluate performance and value with benchmarks.
+- Multi-Currency Valuation: Process financial data across currencies.
+- Data Visualization: Build user-friendly dashboards for diverse audiences.
+- This project showcases my skills in consumer analytics and designing intuitive tools for decision-making.
 
 ## Contact Information
 
@@ -48,11 +85,9 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
-## Author
-- <b>[LinkedIn](https://www.linkedin.com/in/kelvinleung421/)</b>
-
 ## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
+Due to the time invested and privacy considerations, PBIX files are not publicly available on GitHub. Interested in the code or details? Feel free to contact me directly. Thanks for your understanding!
 
+🌟 Thanks for visiting my Power BI Portfolio! I hope these projects highlight my strengths as a data analyst and my enthusiasm for turning data into insights. I’m excited to tackle new challenges and collaborate—let’s create something amazing together!
  
  
