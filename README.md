@@ -36,7 +36,7 @@ This Power BI dashboard analyzes European housing markets using Google Big Query
 
 ## [Project 3: Mobile Product Dashboard 2025](https://github.com/kevinlch421/Mobile-Product-Dashbroad-2025.git)
 
-This Power BI dashboard analyzes European housing markets using Google Big Query data from KRISHAI Technologies. Built with DAX and Power Query, it helps users explore property trends, sales performance, and investment opportunities across Europe through an interactive interface.
+This Power BI dashboard helps you compare smartphones from 2020 to 2025. It shows important phone features like RAM, camera quality, and processors, along with price differences across countries. You can also see how phone technology has changed year by year. Use it to find phones with the best features for your needs, discover where you can get the best price, and easily compare over 1,200 different models. It's perfect for students who are researching their next phone purchase.
 
 ## Preview
 
