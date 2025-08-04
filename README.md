@@ -34,6 +34,13 @@ This Power BI dashboard analyzes European housing markets using Google Big Query
 
 ![Image](https://github.com/user-attachments/assets/268ed1dc-033b-4638-85f7-9d95bf6fa5af)
 
+## [Project 3: Mobile Product Dashboard 2025](https://github.com/kevinlch421/Mobile-Product-Dashbroad-2025.git)
+
+This Power BI dashboard analyzes European housing markets using Google Big Query data from KRISHAI Technologies. Built with DAX and Power Query, it helps users explore property trends, sales performance, and investment opportunities across Europe through an interactive interface.
+
+## Preview
+
+![Image](https://github.com/user-attachments/assets/53126b64-d302-44df-a66c-e5cd4a8381aa)
 
 ## Contact Information
 
